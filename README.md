@@ -1,2 +1,2 @@
 # HackerRank
-Solution for  Python Programs
+Solutions for  Python Programs
